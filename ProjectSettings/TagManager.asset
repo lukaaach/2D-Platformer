@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JumpPlatformerTrigger
+  - CameraTrigger1
+  - CameraTrigger2
+  - StoneTriggerDown
+  - StoneTriggerUpDown
+  - StoneTriggerUp
+  - ElevatorRightTrigger
+  - ElevatorLeftTrigger
+  - FrontGroundTrigger
+  - JumpPlatformerTrigger2
+  - JumpPlatformerTrigger1
+  - JumpPlatformerExitTrigger
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3897625167
+    locked: 0
+  - name: Platform
+    uniqueID: 2679799919
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 3586447529
+    locked: 0
