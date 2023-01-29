@@ -1,4 +1,4 @@
-# 2d-platformer-forest
+# 2d-platformer
 ## Player movement
 ![GIFplayerMove](PlayerMovement.gif)
 ## Camera controller
