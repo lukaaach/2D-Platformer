@@ -1,6 +1,8 @@
 # 2d-platformer-forest
-## Player movement
+## player movement
 ![GIFplayerMove](PlayerMovement.gif)
+## camera controller
+![GIFcameraController](CameraController.gif)
 ## action
 ![GIFaction](Action.gif)
 ## platformer with GRIS game mechanics
