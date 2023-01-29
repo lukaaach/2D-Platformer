@@ -8,5 +8,5 @@
 ## Action
 ![GIFaction](Action.gif)
 ## GRIS game mechanics
-### wait a little please
+### please wait for the gif to load
 ![myGIF](Platformer-Forest-_Mechanics_.gif)
